@@ -1,4 +1,5 @@
-# OSCE Plan (https://aminbohio.com/study-guide-tips-offensive-security-certified-expert-osce-cracking-the-perimeter-ctp/)
+# OSCE Plan 
+Source: (https://aminbohio.com/study-guide-tips-offensive-security-certified-expert-osce-cracking-the-perimeter-ctp/)
 
 ## Lab
 

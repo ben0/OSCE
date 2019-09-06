@@ -24,23 +24,23 @@ http://opensecuritytraining.info/IntroX86.html
 
 ## 0x01 Basic Stack/Buffer Overflows
 
-https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ \
 https://www.ma.rhul.ac.uk/static/techrep/2009/RHUL-MA-2009-06.pdf
 
 ## 0x02 Beyond stack and buffer overflows
 
-https://www.sans.org/reading-room/whitepapers/malicious/basic-reverse-engineering-immunity-debugger-36982/
+https://www.sans.org/reading-room/whitepapers/malicious/basic-reverse-engineering-immunity-debugger-36982/ \
 http://opensecuritytraining.info/Exploits2.html
 
 ## 0x03 Egg Hunters
 
-http://www.hick.org/code/skape/papers/egghunt-shellcode.pdf
-http://www.fuzzysecurity.com/tutorials/expDev/4.html
+http://www.hick.org/code/skape/papers/egghunt-shellcode.pdf \
+http://www.fuzzysecurity.com/tutorials/expDev/4.html \
 https://aminbohio.com/offensive-security-certified-expert-osce-cracking-the-perimeter-ctp-review/
 
 ## 0x04 Fuzzing
 
-https://www.mwrinfosecurity.com/our-thinking/15-minute-guide-to-fuzzing/
+https://www.mwrinfosecurity.com/our-thinking/15-minute-guide-to-fuzzing/ \
 http://sh3llc0d3r.com/vulnserver-fuzzing-with-spike/
 
 ## 0x05 Practice With VulnServer

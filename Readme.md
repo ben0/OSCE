@@ -1,7 +1,9 @@
 # OSCE Plan 
 Source: (https://aminbohio.com/study-guide-tips-offensive-security-certified-expert-osce-cracking-the-perimeter-ctp/)
 
-## Lab
+Added a few more guides and from: https://jhalon.github.io/OSCE-Review/
+
+## Lab :white_check_mark:
 
 ```
 Windows 7
@@ -20,7 +22,7 @@ VulnServer
 
 ## 0x00 Assembly Language
 
-http://opensecuritytraining.info/IntroX86.html \
+http://opensecuritytraining.info/IntroX86.html :white_check_mark:\
 Hacking: The Art of Exploitation \
 NASM Tuturial: - https://cs.lmu.edu/~ray/notes/nasmtutorial/
 

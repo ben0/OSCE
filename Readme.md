@@ -35,7 +35,7 @@ https://www.sans.org/reading-room/whitepapers/malicious/basic-reverse-engineerin
 https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/ \
 https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/ \
 http://opensecuritytraining.info/Exploits1.html \
-http://opensecuritytraining.info/Exploits2.html
+http://opensecuritytraining.info/Exploits2.html \
 Fuzzy Security - Windows Exploit Development series
 
 ## 0x03 Egg Hunters
